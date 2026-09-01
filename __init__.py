@@ -3,7 +3,7 @@ from mathutils import Vector
 
 bl_info = {
     "name": "快速设置灯光",
-    "author": "一枫 & Assistant",
+    "author": "一枫",
     "version": (1, 0, 0),
     "blender": (3, 2, 0),
     "location": "Object Mode > D / 3D View > N 面板 > 快速设置灯光",
