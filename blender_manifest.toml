@@ -3,7 +3,7 @@ schema_version = "1.0.0"
 id = "quick_light_setup"
 version = "1.0.0"
 name = "快速设置灯光"
-tagline = "物体模式按 D 弹出灯光设置弹窗：调光、色温、尺寸、命名一键直达"
+tagline = "选中灯光后按 D 弹出设置弹窗：调光、色温、尺寸、命名一键直达"
 maintainer = "一枫"
 type = "add-on"
 
